@@ -1,6 +1,6 @@
 # MenuQR: QR-Based Restaurant Ordering System
 
-QR Code: <img width="300" height="432" alt="frame" src="https://github.com/user-attachments/assets/da1ee7aa-3c81-4c80-8aee-3a60e88086c2" />
+QR Code: <img width="1574" height="2048" alt="Untitled (2)" src="https://github.com/user-attachments/assets/ffc466ed-f626-44c0-b1ac-4a7f1fc9e4d2" />
 
 ## 📋 Project Overview
 
