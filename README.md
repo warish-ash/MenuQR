@@ -1,5 +1,7 @@
 # MenuQR: QR-Based Restaurant Ordering System
 
+QR Code: <img width="300" height="432" alt="frame" src="https://github.com/user-attachments/assets/da1ee7aa-3c81-4c80-8aee-3a60e88086c2" />
+
 ## 📋 Project Overview
 
 MenuQR is a **contactless, QR-code-based restaurant ordering system** designed to streamline operations for small cafés and restaurants. The system enables customers to scan a QR code at their table, browse the menu, place orders, and track status in real-time—while restaurant staff manage orders efficiently through a dedicated dashboard.
